@@ -1,2 +1,3 @@
 # EggCatcher
-A game made on python for catching eggs and scoring points
+A game based on catching eggs and scoring points fromit
+# Language Used: Python
